@@ -1,0 +1,16 @@
+body {
+    font-family: "sans-serif";
+    font-size: 16px;
+    }
+p{
+font-weight: 600;
+font-size: 3.0em;
+font-style: italic;
+text-decoration: peru;
+}
+.amarelo{ color: yellow;
+      background: darkgreen;
+      line-height:2;
+      }
+.vermelho{ color: red; }
+.marrom{ color: brown; }     
